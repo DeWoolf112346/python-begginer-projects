@@ -184,5 +184,5 @@ while GO:
         # animate()
     pygame.display.flip()
     clock.tick(100)
-pygame.display.flip()
+pygame.quit()
 # pygame.quit()
